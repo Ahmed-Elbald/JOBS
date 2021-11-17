@@ -162,7 +162,7 @@ i {
 }
 @media (max-width: 550px) {
     .special > p {
-        font-size: .8rem;
+        font-size: .7rem;
     }
     .parent > .details > .details-child > .price {
         font-size: .8rem;
